@@ -1,7 +1,4 @@
 # 3D Maze Game in Unity
-
-This is a simple 3D maze game built using Unity and C#. The game features a procedurally generated maze, a player character that can navigate the maze, and a goal to reach the maze exit.
-
 ## Features
 
 - **Procedural Maze Generation**: The maze layout is generated in a grid pattern using customizable dimensions.
